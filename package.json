@@ -1,0 +1,14 @@
+{
+  "name": "kornuat",
+  "version": "1.0.0",
+  "description": "kornaut whyt not",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kornaut",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
